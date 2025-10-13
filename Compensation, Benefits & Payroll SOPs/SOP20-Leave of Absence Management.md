@@ -181,8 +181,11 @@ I would like to apply for **[Type of Leave]** from **[Start Date]** to **[End Da
 Kindly approve my leave request.
 
 Warm regards,
+
 **[Employee Name]**
+
 Employee ID: [###]
+
 Department: [Name]
 
 ---
@@ -196,7 +199,9 @@ Dear [Employee Name],
 Your request for **[Type of Leave]** from **[Start Date]** to **[End Date]** has been approved. Please ensure smooth task handover before your absence.
 
 Best regards,
+
 **[Manager Name]**
+
 APPNEURAL Pvt. Ltd.
 
 ---
@@ -212,7 +217,9 @@ We regret to inform that your leave request for **[Dates]** has been declined du
 You may resubmit a revised request later if required.
 
 Regards,
+
 **[Manager Name / HR]**
+
 APPNEURAL Pvt. Ltd.
 
 ---
@@ -226,6 +233,7 @@ Dear HR and [Manager Name],
 This is to confirm that I have resumed duty on **[Date]** after my approved leave. Please update my attendance accordingly.
 
 Thank you.
+
 **[Employee Name]**
 
 ---
