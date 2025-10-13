@@ -220,9 +220,13 @@ APPNEURAL Pvt. Ltd.
 ## **12. Best Practices**
 
 ✅ Link every training to measurable outcomes.
+
 ✅ Encourage team-wide learning after external sessions.
+
 ✅ Use internal experts as trainers wherever possible.
+
 ✅ Include both **technical** and **soft-skill** development in plans.
+
 ✅ Regularly update the HRIS with new certifications and training completions.
 
 ---
