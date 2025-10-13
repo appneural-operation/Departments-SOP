@@ -163,7 +163,9 @@ This procedure applies to all **full-time, probationary, and contract employees*
 > Certified that [Employee Name] is unfit for duty from [Start Date] to [End Date] due to [Illness].
 >
 > Doctor’s Name: ___________
+
 > Reg. No: ___________
+
 > Signature & Seal: ___________
 
 ---
@@ -196,7 +198,8 @@ Department: [Name]
 
 Dear [Employee Name],
 
-Your request for **[Type of Leave]** from **[Start Date]** to **[End Date]** has been approved. Please ensure smooth task handover before your absence.
+Your request for **[Type of Leave]** from **[Start Date]** to **[End Date]** has been approved. 
+Please ensure smooth task handover before your absence.
 
 Best regards,
 
