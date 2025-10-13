@@ -1,6 +1,7 @@
 #  SOP for Background and Reference Checks
 
 ## **1. Purpose**
+
 The purpose of this SOP is to define a structured, compliant, and confidential process for conducting **background and reference checks** for candidates at **APPNEURAL Pvt. Ltd.**.  
 It ensures:
 - Verification of candidate information
@@ -41,14 +42,17 @@ It covers:
    - Types of verification (employment, education, criminal, reference)
    - Purpose of verification
    - Confidentiality and usage of data
+     
 3. **Template: Candidate Consent Form**
-```text
-I, [Candidate Name], 
+   
+I, **[Candidate Name]**, 
 
-Hereby give consent to APPNEURAL Pvt. Ltd. to conduct background and reference checks, including verification of my educational qualifications, previous employment, and any other relevant records, for the purpose of employment consideration.
+Hereby give consent to APPNEURAL Pvt. Ltd. to conduct background and reference checks, including verification of my educational qualifications,
+previous employment, and any other relevant records, for the purpose of employment consideration.
 
-Signature: ____________________  Date: ______________
-````
+Signature: ____________________
+
+Date: ______________
 
 ---
 
@@ -89,6 +93,7 @@ Signature: ____________________  Date: ______________
    * Strengths and weaknesses
    * Work ethics and interpersonal skills
    * Reason for leaving
+  
 3. **Template: Reference Check Form**
 
 ```text
