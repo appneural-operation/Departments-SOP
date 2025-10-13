@@ -1,10 +1,12 @@
-# **STANDARD OPERATING PROCEDURE (SOP)**
-
-## **Title:** SOP for SOP Management
+# **Title:** SOP for SOP Management
+---
 
 **Department:** Human Resources (HR)
+
 **Version:** 1.0
+
 **Effective Date:** 13/Oct/2025
+
 **Approved By:** CEO/Manager
 
 ---
