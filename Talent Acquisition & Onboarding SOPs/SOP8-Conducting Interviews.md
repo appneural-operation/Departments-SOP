@@ -1,24 +1,26 @@
-#  SOP for Conducting Interviews 
+# 🧾 SOP for Conducting Interviews 
 
 ## **1. Purpose**
-This SOP defines the structured process for conducting interviews at **APPNEURAL Pvt. Ltd.**, including **role-based Aptitude / Assessment Tests**.  
-It ensures:
-- Fair and unbiased assessment
-- Standardized interview procedures
-- Proper documentation and feedback collection
-- Compliance with company policies and data privacy laws
+
+This SOP provides a structured, fair, and role-specific process for conducting interviews at **APPNEURAL Pvt. Ltd.**.  
+It ensures:  
+- Standardized interview rounds  
+- Objective evaluation using templates  
+- Proper documentation of all decisions  
+- Clear communication with candidates including rejected scenarios  
 
 ---
 
 ## **2. Scope**
-This SOP applies to:
-- All open positions approved via Job Requisition Form (JRF)
-- HR Recruiters, Hiring Managers, Department Heads, and Interview Panel Members
+Applies to:  
+- All open positions approved via Job Requisition Form (JRF)  
+- HR, Hiring Managers, Department Heads, and Interview Panel Members  
 
-It covers:
-- Role-specific Aptitude / Assessment Test round
-- Technical, managerial, HR/behavioral, and final rounds
-- Scheduling, evaluation, and candidate communication
+Covers:  
+- Aptitude / Assessment Test (role-based)  
+- Technical, Managerial, HR/Behavioral, and Final/CEO rounds  
+- Candidate evaluation and shortlisting  
+- Communication with selected and rejected candidates  
 
 ---
 
@@ -26,34 +28,33 @@ It covers:
 
 | Role | Responsibility |
 |------|----------------|
-| **HR Recruiter** | Schedule interviews/tests, coordinate panel, send emails, maintain records |
-| **Hiring Manager / Department Head** | Conduct technical/managerial interviews and evaluate candidates |
-| **Interview Panel Members** | Conduct interviews/tests, provide ratings, and submit feedback |
-| **HR Manager** | Ensure SOP compliance and maintain interview documentation |
+| **HR Recruiter** | Schedule rounds, coordinate panel, send emails, maintain records |
+| **Hiring Manager / Department Head** | Conduct technical/managerial interviews, provide evaluation |
+| **Interview Panel Members** | Conduct interviews/tests, provide ratings, submit feedback |
+| **HR Manager** | Ensure SOP compliance, maintain documentation |
 
 ---
 
 ## **4. Procedure**
 
-### **Step 1: Interview Scheduling**
-1. HR sends availability requests to candidate(s) and interview panel.
-2. Confirm date, time, and mode (Onsite / Online / Hybrid).
-3. Send **Interview & Role-Based Test Invitation Email**:
+### **Step 1: Schedule Interviews**
+1. HR coordinates with candidate and panel for date/time/mode.  
+2. Send **Interview & Assessment Test Invitation Email**:
 
-**Template: Interview & Assessment Test Email**
+**Template: Invitation Email**
 ```text
 Subject: Interview & Role-Based Assessment - [Position Name] at APPNEURAL Pvt. Ltd.
 
 Dear [Candidate Name],
 
 You have been shortlisted for the position of [Position Name] at APPNEURAL Pvt. Ltd.  
-Your interview and role-based assessment test have been scheduled as follows:
+Your interview and role-based assessment test are scheduled as follows:
 
 - Date: [Date]  
 - Time: [Time]  
-- Mode: [Online/Onsite]  
+- Mode: [Online/Onsite/Hybrid]  
 - Interview Panel: [Names & Designations]  
-- Assessment Test: [Role-Specific Aptitude/Technical Test]  
+- Assessment Test: [Role-Specific Aptitude/Technical Test]
 
 Please confirm your availability by replying to this email.  
 For online sessions, a meeting link will be shared upon confirmation.
@@ -62,87 +63,74 @@ Best Regards,
 [HR Name]  
 HR Department, APPNEURAL Pvt. Ltd.
 ````
----
-
-### **Step 2: Prepare Role-Based Question Bank**
-
-1. Prepare questions/tests specific to each role:
-
-| Role               | Test Type                | Key Skills Evaluated                                     | Duration  |
-| ------------------ | ------------------------ | -------------------------------------------------------- | --------- |
-| Software Developer | Coding / Problem Solving | Programming, Algorithms, Logical Thinking                | 45-60 min |
-| QA / Tester        | Logical & Analytical     | Bug Identification, Test Case Writing, Analytical Skills | 30-45 min |
-| Project Manager    | Case Study / Scenario    | Planning, Decision Making, Risk Management               | 30-45 min |
-| HR / Admin         | Logical & Situational    | Communication, Reasoning, Policy Knowledge               | 30 min    |
-| Marketing / Sales  | Situational / Aptitude   | Analytics, Creativity, Negotiation                       | 30-45 min |
-
-2. Include **multiple-choice, coding exercises, case studies, or scenario-based questions** as applicable.
 
 ---
 
-### **Step 3: Conduct Interview Rounds**
+### **Step 2: Conduct Interview Rounds**
 
 #### **A. Role-Based Aptitude / Assessment Test**
 
-* Conducted **before technical and behavioral rounds**
-* Evaluate:
+* Conducted **first**
+* Evaluates:
 
-  * Role-specific competencies
-  * Logical reasoning
-  * Quantitative aptitude (if relevant)
-  * Analytical or domain-specific skills
-* Duration based on role (see table above)
-* Record **score in Assessment Test Sheet**
+  * Logical reasoning, quantitative aptitude, problem-solving
+  * Role-specific skills
+* Duration: 30–60 minutes (role-dependent)
+* Record score in **Assessment Sheet**
 
 #### **B. Technical Round**
 
-* Evaluate technical knowledge specific to role
+* Conducted by Hiring Manager / Technical Lead
+* Evaluates domain-specific technical knowledge
 * Duration: 45–60 minutes
 
 #### **C. Managerial / Team Lead Round**
 
-* Evaluate project management, team handling, decision-making
+* Conducted by Project/Team Lead
+* Evaluates project management, leadership, decision-making
 * Duration: 30–45 minutes
 
 #### **D. HR / Behavioral Round**
 
-* Evaluate soft skills, cultural fit, adaptability
+* Conducted by HR
+* Evaluates communication, teamwork, adaptability, cultural fit
 * Duration: 30 minutes
 
 #### **E. Final / CEO Round**
 
-* Evaluate alignment with company vision, long-term potential
+* Conducted by CEO or top management
+* Evaluates strategic thinking, vision alignment, long-term potential
 * Duration: 20–30 minutes
 
 ---
 
-### **Step 4: Candidate Evaluation**
+### **Step 3: Candidate Evaluation**
 
-1. Maintain **Candidate Evaluation Form** including **role-based test results**:
+1. Use **Candidate Evaluation Form** including aptitude and interview rounds:
 
-| Round | Candidate Name | Panel Member | Assessment/Aptitude Score | Technical Skills (1-5) | Soft Skills (1-5) | Cultural Fit (1-5) | Overall Score | Recommendation | Notes |
-| ----- | -------------- | ------------ | ------------------------- | ---------------------- | ----------------- | ------------------ | ------------- | -------------- | ----- |
+| Round | Candidate Name | Panel Member | Assessment Score | Technical Skills (1-5) | Soft Skills (1-5) | Cultural Fit (1-5) | Overall Score | Recommendation | Notes |
+| ----- | -------------- | ------------ | ---------------- | ---------------------- | ----------------- | ------------------ | ------------- | -------------- | ----- |
 
-2. Assign **weightage based on role importance**:
+2. Assign **weightage based on role**:
 
-* Technical Skills / Assessment: 50–70% for technical roles
+* Technical / Assessment: 50–70% for technical roles
 * Managerial / Case Study: 50–70% for leadership roles
 * Behavioral: 20–30% for all roles
 
 ---
 
-### **Step 5: Collect Feedback & Shortlist**
+### **Step 4: Shortlisting & Rejected Scenarios**
 
-1. HR consolidates feedback from all rounds.
-2. Determine final decision: **Selected / Hold / Rejected**
-3. HR prepares **Final Interview & Test Summary Sheet**.
+**Shortlisted Candidate:**
 
----
+* Passes minimum required score in all relevant rounds
+* HR sends **next-round or offer invitation email**
 
-### **Step 6: Communication with Candidates**
+**Rejected Candidate Scenarios:**
 
-1. Send **shortlisting / next-round email** to selected candidates.
-2. Send **rejection email** to non-selected candidates.
+1. Fails Aptitude / Assessment Test
+2. Fails Technical / Managerial Round
+3. Fails Behavioral / Cultural Fit Evaluation
 
 **Template: Rejection Email**
 
@@ -163,9 +151,35 @@ HR Department, APPNEURAL Pvt. Ltd.
 
 ---
 
-## **5. Document Templates**
+### **Step 5: Communication with Shortlisted Candidates**
 
-### **A. Candidate Evaluation Form Template**
+**Template: Next Round Email**
+
+```text
+Subject: Interview Outcome - Next Round Invitation - [Position Name]
+
+Dear [Candidate Name],
+
+Congratulations! You have successfully cleared the [Assessment / Technical / HR] round for the position of [Position Name].  
+The next round of interview has been scheduled as follows:
+
+- Date: [Date]  
+- Time: [Time]  
+- Mode: [Online/Onsite]  
+- Interview Panel: [Names & Designations]  
+
+Please confirm your availability by replying to this email.
+
+Best Regards,  
+[HR Name]  
+HR Department, APPNEURAL Pvt. Ltd.
+```
+
+---
+
+## **6. Document Templates**
+
+### **A. Candidate Evaluation Form**
 
 | Candidate Name | Interview Round | Panel Member | Assessment/Aptitude Score | Technical Skills (1-5) | Soft Skills (1-5) | Cultural Fit (1-5) | Overall Rating | Recommendation | Notes |
 | -------------- | --------------- | ------------ | ------------------------- | ---------------------- | ----------------- | ------------------ | -------------- | -------------- | ----- |
@@ -185,16 +199,16 @@ HR Department, APPNEURAL Pvt. Ltd.
 
 ---
 
-## **6. Compliance & Best Practices**
+## **7. Compliance & Best Practices**
 
-* Assessment must be **role-appropriate and unbiased**.
-* Maintain **confidentiality** of all candidate data.
-* Use structured templates and score sheets for **objective evaluation**.
-* Maintain **audit trail** for all rounds, including role-based tests.
+* Ensure **role-specific assessment** is fair and unbiased.
+* Maintain **confidentiality** of candidate data.
+* Avoid **discrimination or bias** in any evaluation round.
+* Keep a **complete audit trail** of all scores, feedback, and emails.
 
 ---
 
-## **7. Related Documents**
+## **8. Related Documents**
 
 * 📄 Job Description
 * 📄 Candidate Screening Sheet
@@ -204,17 +218,20 @@ HR Department, APPNEURAL Pvt. Ltd.
 
 ---
 
-## **8. Version Control**
+## **9. Version Control**
 
 | Version | Date        | Prepared By   | Reviewed By | Approved By | Remarks                                    |
 | ------- | ----------- | ------------- | ----------- | ----------- | ------------------------------------------ |
-| 1.2     | 13-Oct-2025 | HR Department | HR Manager  | CEO         | Added Role-Based Aptitude/Assessment Round |
+| 1.3     | 13-Oct-2025 | HR Department | HR Manager  | CEO         | Added rejected scenarios & email templates |
 
 ---
 
-## **9. Notes**
+## **10. Notes**
 
-* Review SOP annually or when new role-specific tests are added.
-* Ensure role-based weightage for scoring is followed consistently.
-* HR to track all results and ensure timely communication with candidates.
+* SOP must be reviewed annually or when interview/test processes change.
+* HR ensures **timely communication** for both shortlisted and rejected candidates.
+* Panel members must **follow templates for evaluation and scoring**.
 
+---
+
+```
