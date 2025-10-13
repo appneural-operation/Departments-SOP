@@ -208,10 +208,14 @@ HR Department
 
 ## **7. Best Practices**
 
-✅ Set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound)
+✅ Set SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) 
+
 ✅ Conduct regular feedback sessions – not just twice a year
+
 ✅ Encourage **two-way communication** during reviews
+
 ✅ Use data-driven performance evidence
+
 ✅ Maintain confidentiality and professionalism
 
 ---
