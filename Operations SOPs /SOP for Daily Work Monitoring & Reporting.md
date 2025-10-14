@@ -194,8 +194,3 @@ All daily and weekly reports must be stored in:
 - **Reviewed by:** Operations Manager  
 - **Approved by:** Director / Management  
 - **Review Cycle:** Quarterly (Every 3 months)  
-
----
-```
-
-
