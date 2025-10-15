@@ -220,8 +220,4 @@ Rollback Needed: [Yes/No] – Action Taken: [Details]
 - ISO 27001: https://www.iso.org/isoiec-27001-information-security.html  
 - CI/CD Pipeline Guides: Jenkins, GitHub Actions, GitLab CI  
 
-```
-
----
-
 
