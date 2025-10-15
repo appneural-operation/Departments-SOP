@@ -267,6 +267,4 @@ Action Items:
 - Scrum Guide: https://scrumguides.org  
 - Jira / ClickUp / Trello / Microsoft 365 Planner & Teams Guides  
 - ISO 9001 Quality Standards
-```
 
----
