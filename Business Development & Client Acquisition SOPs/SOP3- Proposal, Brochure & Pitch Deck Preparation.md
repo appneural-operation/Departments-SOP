@@ -215,12 +215,19 @@ To keep all files organized:
 ## **9. Handover Checklist (Before Sending Proposal)**
 
 ✅ All client details verified
+
 ✅ Technical content reviewed and approved
+
 ✅ Pricing confirmed by Finance
+
 ✅ Design and format checked
+
 ✅ File properly named and versioned
+
 ✅ Saved in Microsoft 365 / CRM
+
 ✅ Final approval received from Management
+
 ✅ Shared through official email
 
 ---
