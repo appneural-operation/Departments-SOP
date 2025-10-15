@@ -125,9 +125,16 @@ Notes / Decisions:
 ## Daily Standup
 
 Date: [Insert Date]
+
 Team Member Updates:
 
-* [Name] – Yesterday: [Tasks Completed], Today: [Tasks Planned], Blockers: [Issues]
+* [Name] –
+
+Yesterday: [Tasks Completed],
+
+Today: [Tasks Planned],
+
+Blockers: [Issues]
 
 ```
 
