@@ -105,7 +105,9 @@ It covers process improvement, redesign, documentation, automation, and continuo
 ### **Template: Process Improvement Proposal (PIP)**
 
 **Department:** __________________________
+
 **Proposed By:** __________________________
+
 **Date:** __________________________
 
 #### **1. Issue Summary:**
@@ -132,7 +134,8 @@ List of tools or team support required.
 
 #### **6. Implementation Timeline:**
 
-Start Date: ____  End Date: ____
+Start Date: ____ 
+End Date: ____
 
 #### **7. Approval Section:**
 
