@@ -1,155 +1,213 @@
 # 🧾 **SOP for Internal Audit & Compliance Check**
 
-### **Purpose**
+## 🎯 **Purpose**
 
-This SOP defines the systematic process of conducting internal audits at **APPNEURAL Pvt. Ltd.** to ensure compliance with company policies, statutory regulations, and operational standards. The goal is to identify gaps, mitigate risks, and drive continuous improvement across departments.
+The purpose of this SOP is to define a **structured internal audit framework** for APPNEURAL Pvt. Ltd. that ensures all operations, HR, technical, and financial activities comply with:
 
----
+* Internal company policies
+* Indian labour laws and statutory regulations
+* Data protection and confidentiality guidelines
+* Process efficiency and performance standards
 
-## **1. Audit Frequency**
-
-Audits shall be conducted as per the following schedule:
-
-| **Type of Audit**             | **Frequency** | **Conducted By**               | **Scope**                              |
-| ----------------------------- | ------------- | ------------------------------ | -------------------------------------- |
-| HR & Admin Audit              | Monthly       | HR / Internal Auditor          | Attendance, Leave, Policy adherence    |
-| Data Security & IT Audit      | Quarterly     | Tech Lead / Compliance Officer | Access control, Data protection        |
-| Financial Audit               | Quarterly     | Finance / External Auditor     | Expenses, Payments, Budget control     |
-| Operations & Process Audit    | Bi-Annually   | Operations Head                | Workflow, Productivity, SOP compliance |
-| Company-wide Compliance Audit | Annually      | Management Audit Team          | All departments & policies             |
+This SOP aims to build a **transparent, accountable, and improvement-driven culture** across departments through regular audits and continuous compliance monitoring.
 
 ---
 
-## **2. Audit Checklist**
+## ⚙️ **Scope**
 
-Each department should be reviewed using a defined checklist to ensure consistency and transparency.
+This SOP applies to all departments:
 
-### **Sample Audit Checklist Template**
+* HR & Administration
+* Technology (Development, QA, DevOps)
+* Business Development & Marketing
+* Operations & Client Delivery
+* Finance & Accounts
 
-| **Area**          | **Checkpoints**                                       | **Compliant (Yes/No)** | **Remarks** |
-| ----------------- | ----------------------------------------------------- | ---------------------- | ----------- |
-| HR Files          | All employee records are updated and signed           |                        |             |
-| Attendance        | Daily attendance marked in HRMS                       |                        |             |
-| Data Security     | Password policies implemented                         |                        |             |
-| Policy Compliance | Team follows remote work and confidentiality policies |                        |             |
-| Performance       | KPIs reviewed and documented quarterly                |                        |             |
-| Training          | Employee skill development programs conducted         |                        |             |
-
-> ✅ *Tip:* Each department can customize this checklist as per their process requirements.
+The internal audit process covers **documents, systems, communication records, task management tools, financial transactions, and HR compliance files**.
 
 ---
 
-## **3. Roles & Responsibilities**
+## 👥 **Roles & Responsibilities**
 
-| **Role**                          | **Responsibilities**                                                |
-| --------------------------------- | ------------------------------------------------------------------- |
-| **Audit Lead / Internal Auditor** | Plans audit schedule, creates audit checklist, leads audit sessions |
-| **Department Head**               | Provides data, documents, and clarifications during audit           |
-| **Auditor / Compliance Officer**  | Verifies records, collects evidence, scores compliance              |
-| **Management / Director**         | Reviews audit report, approves corrective actions                   |
-
----
-
-## **4. Data Collection & Verification**
-
-* **Methods of Verification:**
-
-  * Review of digital records (HRMS, project tools, accounting systems)
-  * Employee interviews or questionnaires
-  * Physical document verification (where applicable)
-  * Observation of live processes
-* **Data Sources:**
-
-  * HRMS, ClickUp, Google Drive, Notion, Finance Software
-* **Evidence Storage:**
-  All verified data and screenshots must be stored in a secured internal folder labeled `Audit Reports – [Month-Year]`.
+| **Role**                                  | **Responsibilities**                                                                              |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **Internal Auditor / Compliance Officer** | Develops audit schedule, prepares audit checklist, conducts audits, and prepares reports.         |
+| **Department Head**                       | Ensures department readiness, shares required records, and implements corrective actions.         |
+| **Process Owner / Team Lead**             | Provides detailed process data and participates in review meetings.                               |
+| **Top Management / Director**             | Reviews audit summary, approves CAPA (Corrective and Preventive Actions), and monitors follow-up. |
+| **HR Representative**                     | Ensures employee and policy compliance audits are properly documented.                            |
 
 ---
 
-## **5. Scoring System / Compliance Report Format**
+## 🗓️ **Audit Frequency**
 
-### **Compliance Scoring**
-
-| **Score Range** | **Compliance Level** | **Meaning**                          |
-| --------------- | -------------------- | ------------------------------------ |
-| 90% – 100%      | Excellent            | Fully compliant                      |
-| 75% – 89%       | Satisfactory         | Minor improvements needed            |
-| 60% – 74%       | Needs Improvement    | Several non-compliance areas         |
-| Below 60%       | Critical             | Immediate corrective action required |
-
-### **Sample Compliance Report Template**
-
-| **Department**  | **Audit Date** | **Compliance %** | **Status**   | **Remarks**                      |
-| --------------- | -------------- | ---------------- | ------------ | -------------------------------- |
-| HR Department   | 01-Oct-2025    | 85%              | Satisfactory | Update leave records policy      |
-| Tech Department | 02-Oct-2025    | 95%              | Excellent    | Maintain same process discipline |
+| **Audit Type**                    | **Frequency** | **Responsible Department** | **Scope / Coverage**                                                                 |
+| --------------------------------- | ------------- | -------------------------- | ------------------------------------------------------------------------------------ |
+| **HR Audit**                      | Monthly       | HR Department              | Attendance, leave, performance reviews, onboarding, and compliance with labour laws. |
+| **IT / Data Security Audit**      | Quarterly     | Tech Department            | Password policy, access control, data storage, and backup processes.                 |
+| **Finance Audit**                 | Quarterly     | Finance Department         | Expense tracking, vendor payments, invoices, salary slips, and statutory returns.    |
+| **Operations & Process Audit**    | Bi-Annual     | Operations Team            | Workflow efficiency, SOP adherence, project deliverables.                            |
+| **Company-Wide Compliance Audit** | Annual        | Management Audit Team      | Review of all departments and policies for holistic compliance.                      |
 
 ---
 
-## **6. Corrective and Preventive Action Plan (CAPA)**
+## 🧾 **Audit Planning Process**
 
-### **CAPA Process Steps**
+### Step 1: **Define Audit Objectives**
 
-1. **Identify Issue:** Auditor records non-compliance areas.
-2. **Analyze Cause:** Root cause identified (process gap, human error, lack of tool).
-3. **Plan Correction:** Create a plan to fix current issue.
-4. **Prevent Recurrence:** Suggest process improvements or SOP updates.
-5. **Document & Review:** CAPA recorded and shared for management approval.
+* Verify compliance with internal SOPs and legal obligations.
+* Identify inefficiencies, redundancies, and risks.
+* Suggest process improvement opportunities.
+
+### Step 2: **Create Audit Schedule**
+
+* Shared monthly/quarterly via Google Calendar and Notion.
+* Include departments, dates, auditors, and key focus areas.
+* Notify all stakeholders **7 days in advance**.
+
+### Step 3: **Prepare Audit Checklist**
+
+Each audit type has a unique checklist (see below).
+
+---
+
+## 📋 **Sample Audit Checklist Template**
+
+| **Department** | **Area to Check**                                               | **Verification Method** | **Compliant (Y/N)** | **Remarks / Action Required** |
+| -------------- | --------------------------------------------------------------- | ----------------------- | ------------------- | ----------------------------- |
+| HR             | Attendance records are updated daily                            | HRMS system logs        |                     |                               |
+| HR             | Offer letters, NDAs, and policy acknowledgment forms are signed | File verification       |                     |                               |
+| Tech           | Password and access control implemented                         | System access audit     |                     |                               |
+| Finance        | Invoices and receipts are properly filed                        | Document check          |                     |                               |
+| Operations     | Daily task updates in ClickUp are maintained                    | System review           |                     |                               |
+| Marketing      | Client campaign approvals documented                            | File check              |                     |                               |
+
+> 📝 **Note:** Each department may customize their checklist based on project, tools, or process requirements.
+
+---
+
+## 🔍 **Data Collection & Verification Methods**
+
+| **Method**                              | **Description**                                                                       |
+| --------------------------------------- | ------------------------------------------------------------------------------------- |
+| **Document Review**                     | Auditors review HRMS, Google Drive, financial software, and project management tools. |
+| **Observation**                         | Evaluate live workflow and daily standups for operational accuracy.                   |
+| **Employee Interviews**                 | Discuss understanding of SOPs and adherence levels.                                   |
+| **System Audit Logs**                   | Verify login, access, and data modification activities.                               |
+| **Physical Verification (if required)** | Verify hardware, files, or ID access if any.                                          |
+
+All collected data and evidence (screenshots, files, etc.) are saved in the folder:
+📁 `Internal Audit > [Department Name] > [Month-Year]`.
+
+---
+
+## 📊 **Scoring & Compliance Rating System**
+
+Each area of audit is scored on a scale of 0–5:
+
+| **Score** | **Meaning**               |
+| --------- | ------------------------- |
+| 5         | Fully compliant, no issue |
+| 4         | Minor observation         |
+| 3         | Needs improvement         |
+| 2         | Major non-compliance      |
+| 1         | Critical issue            |
+
+### **Departmental Compliance Summary Example**
+
+| **Department** | **Total Points** | **Achieved Points** | **Compliance %** | **Status**        | **Remarks**                     |
+| -------------- | ---------------- | ------------------- | ---------------- | ----------------- | ------------------------------- |
+| HR             | 100              | 85                  | 85%              | Satisfactory      | Attendance improvement required |
+| Tech           | 100              | 95                  | 95%              | Excellent         | Secure data backup implemented  |
+| Finance        | 100              | 78                  | 78%              | Needs Improvement | Missing few invoices            |
+
+> 📈 Departments scoring **below 80%** must submit a **Corrective & Preventive Action Plan (CAPA)** within **10 days**.
+
+---
+
+## 🧩 **Corrective and Preventive Action Plan (CAPA)**
+
+### **CAPA Workflow**
+
+1. **Finding Identification:** Auditor lists non-compliance or risk areas.
+2. **Root Cause Analysis (RCA):** Team identifies underlying cause (manual delay, tool issue, unclear SOP).
+3. **Action Planning:** Short-term corrective and long-term preventive measures are defined.
+4. **Implementation:** Assigned team executes actions by target date.
+5. **Verification & Closure:** Auditor rechecks after 15–30 days and closes the finding if resolved.
 
 ### **CAPA Template**
 
-| **Audit Finding**     | **Root Cause**                | **Corrective Action** | **Preventive Measure** | **Responsible Person** | **Target Date** |
-| --------------------- | ----------------------------- | --------------------- | ---------------------- | ---------------------- | --------------- |
-| Incomplete HR Records | Missing submission by interns | Reminder mail to all  | Auto-tracking in HRMS  | HR Executive           | 20-Oct-2025     |
+| **Audit Finding**              | **Root Cause**         | **Corrective Action (Immediate)**          | **Preventive Action (Long Term)** | **Responsible Person** | **Target Completion Date** | **Status**  |
+| ------------------------------ | ---------------------- | ------------------------------------------ | --------------------------------- | ---------------------- | -------------------------- | ----------- |
+| Outdated HR policy in handbook | Policy not reviewed    | Update HR policy and circulate new version | Schedule bi-annual policy review  | HR Head                | 31-Oct-2025                | Pending     |
+| Unsecured password sharing     | Lack of tool awareness | Reset passwords & training                 | Implement 2FA policy              | Tech Lead              | 20-Oct-2025                | In Progress |
 
 ---
 
-## **7. Follow-Up & Closure**
+## 📁 **Compliance Reporting & Documentation**
 
-* The **Audit Lead** will follow up after 15 days of report submission.
-* Departments must submit proof of corrective actions taken.
-* Once verified, the **Audit Report** will be marked as **Closed** in the Audit Tracker.
-* A **summary report** will be shared with top management.
+### **Internal Audit Report Template**
 
-### **Audit Closure Template**
+| **Report ID** | **Department** | **Audit Date** | **Auditor** | **Summary of Findings** | **Compliance %** | **Remarks / Action Plan**       |
+| ------------- | -------------- | -------------- | ----------- | ----------------------- | ---------------- | ------------------------------- |
+| AUD/HR/1025   | HR             | 10-Oct-2025    | HR Head     | 2 minor observations    | 85%              | Leave record automation planned |
 
-| **Audit ID** | **Department** | **Findings Resolved** | **Closure Date** | **Verified By** |
-| ------------ | -------------- | --------------------- | ---------------- | --------------- |
-| AUD/HR/1025  | HR             | ✅ Yes                 | 05-Nov-2025      | Audit Lead      |
+All reports should be:
 
----
-
-## **8. Confidentiality & Data Access Rules**
-
-* All audit data is confidential and must be accessed only by authorized personnel.
-* Auditors must **sign a confidentiality agreement** before conducting audits.
-* Sensitive information (employee files, salary data, client details) must **not be shared externally**.
-* All digital files should be stored with **restricted access permissions** in Google Drive/Notion.
+* Stored in Google Drive under `Audit Reports` folder.
+* Shared with Department Heads & Management via Notion page.
+* Reviewed during Monthly Management Meeting.
 
 ---
 
-## **9. Tools & References**
+## 🔒 **Confidentiality & Data Access Protocol**
 
-* **Audit Management Tools:** Google Sheets, ClickUp, Notion, MS Excel
-* **File Storage:** Google Drive (restricted access folders)
-* **Reference Documents:**
+* All auditors must sign a **Confidentiality Agreement** before audit initiation.
+* Access to audit folders is **restricted** to authorized users only.
+* Data extracted for audit purposes must be deleted after **90 days** of closure.
+* Personal or client data should not be copied, printed, or shared externally.
 
-  * Company Policies Handbook
-  * Previous Audit Reports
-  * Employee Records (HRMS)
-
----
-
-## **10. Continuous Improvement**
-
-* After every audit cycle, a **review meeting** will be conducted to discuss patterns and recurring issues.
-* SOPs and policies should be **updated** based on audit learnings.
-* A **quarterly dashboard** will track compliance progress for all departments.
+> ⚠️ Any data breach or misuse during the audit process will lead to **disciplinary action** as per the company’s confidentiality and IT policy.
 
 ---
 
-## **✅ Final Notes**
+## 🔁 **Follow-Up & Closure Process**
 
-Internal Audits at APPNEURAL Pvt. Ltd. ensure that every department operates efficiently, complies with policies, and maintains transparency. The process also promotes accountability and a culture of continuous improvement.
+| **Stage** | **Activity**           | **Responsible**              | **Timeline**            |
+| --------- | ---------------------- | ---------------------------- | ----------------------- |
+| 1         | Submission of CAPA     | Department Head              | Within 10 days of audit |
+| 2         | CAPA Review            | Auditor / Compliance Officer | Within 15 days          |
+| 3         | Verification & Closure | Audit Lead                   | Within 30 days          |
+| 4         | Summary Presentation   | Management Team              | Quarterly               |
+
+A **closure certificate** or signed approval will mark the completion of each audit cycle.
+
+---
+
+## 📈 **Continuous Improvement Process**
+
+* Conduct **Quarterly Audit Review Meetings** to analyze recurring issues.
+* Update **SOPs, Policies, and Training Modules** based on audit findings.
+* Encourage employee feedback to improve compliance culture.
+* Adopt tools like **Notion Audit Tracker**, **ClickUp Dashboard**, and **AI-based checklists** to automate routine checks.
+
+---
+
+## 🧰 **Tools & Resources**
+
+| **Tool**                         | **Purpose**                                   |
+| -------------------------------- | --------------------------------------------- |
+| Google Sheets / Excel            | Audit checklists and reports                  |
+| ClickUp / Notion                 | Task tracking and CAPA management             |
+| Google Drive                     | Secure audit report storage                   |
+| Slack / Email                    | Communication for findings and updates        |
+| AI Tools (Zapier, ChatGPT, etc.) | Automate audit reminders and report summaries |
+
+---
+
+## ✅ **Final Summary**
+
+The Internal Audit & Compliance Check SOP ensures that APPNEURAL Pvt. Ltd. operates with transparency, consistency, and legal compliance.
+It promotes **risk prevention, efficiency enhancement, and data integrity**, reinforcing trust between employees, management, and clients.
 
 ---
