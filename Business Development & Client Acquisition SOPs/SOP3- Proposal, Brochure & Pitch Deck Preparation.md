@@ -1,12 +1,16 @@
-# **SOP for Proposal, Brochure & Pitch Deck Preparation**
+# **SOP: Proposal, Brochure & Pitch Deck Preparation**
 
 ---
 
-## **1. Objective**
+## **1. Purpose**
 
-To define a **consistent, high-quality, and client-centric process** for preparing proposals, brochures, and pitch decks that effectively communicate APPNEURAL Pvt. Ltd.’s capabilities, solutions, and value proposition.
+The purpose of this SOP is to define a **clear, step-by-step process** for creating and managing **proposals, brochures, and pitch decks** that are sent to potential or existing clients.
 
-This SOP ensures that every document sent to a client reflects **professionalism, branding standards, and accurate service details**.
+This ensures that:
+
+* Every proposal or pitch represents **APPNEURAL Pvt. Ltd. professionally and consistently**.
+* All materials are **accurate, well-designed, and client-focused**.
+* Teams follow a **standard workflow** — from creation to approval and final delivery.
 
 ---
 
@@ -14,290 +18,210 @@ This SOP ensures that every document sent to a client reflects **professionalism
 
 This SOP applies to:
 
-* **Business Development Team**
-* **Design Team**
-* **Project & Operations Managers**
-* **Top Management / CEO** (for final approvals)
+* All **Business Development, Marketing, and Technical teams** involved in creating proposals or presentations for clients.
+* All **types of documents** used for business development, including:
 
-It covers **proposal writing, brochure design, and pitch deck creation** from initial draft to client submission.
+  * **Proposals** for client projects and outsourcing opportunities.
+  * **Brochures** describing services, case studies, and company profile.
+  * **Pitch Decks** for client meetings, partnerships, or investor presentations.
 
----
+These can be prepared for:
 
-## **3. Purpose**
-
-To ensure:
-
-* All proposals and decks follow **APPNEURAL’s official design and brand guidelines**.
-* Content structure clearly communicates **solutions, deliverables, pricing, and timeline**.
-* Internal review, approval, and version control are maintained for each document.
-* Each proposal is **customized for the specific client’s business context**.
+* New client acquisition
+* Project bidding
+* Partnership discussions
+* Investor meetings
+* Renewal or upselling discussions
 
 ---
 
-## **4. Responsibility**
+## **3. Roles & Responsibilities**
 
-| **Role**                                 | **Responsibility**                                                                   |
-| ---------------------------------------- | ------------------------------------------------------------------------------------ |
-| **Business Development Executive (BDE)** | Collect client requirements, prepare initial draft, and coordinate with design team. |
-| **Design Team / Graphic Designer**       | Format proposal, brochure, and pitch deck according to brand guidelines.             |
-| **Operations / Technical Lead**          | Review technical feasibility, timelines, and scope.                                  |
-| **Management / CEO**                     | Approve final version before sharing with the client.                                |
-| **CRM Coordinator**                      | Maintain version control and archive final documents.                                |
-
----
-
-## **5. Process Steps**
+| **Role**                                     | **Responsibilities**                                                                                |
+| -------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| **Business Development Executive / Manager** | Collect client information, prepare the first draft of proposal/pitch, and ensure content accuracy. |
+| **Marketing / Design Team**                  | Design and format documents using company branding guidelines.                                      |
+| **Technical / Project Lead**                 | Verify technical details, feasibility, scope, and deliverables.                                     |
+| **Finance Team**                             | Review pricing, commercial terms, and project cost breakdown.                                       |
+| **Management (CEO/Director)**                | Provide final approval before sharing with the client.                                              |
 
 ---
 
-### **Step 1: Gather Client Information**
+## **4. Step-by-Step Process**
 
-Before drafting any proposal:
+### **Step 1: Collect Client Information**
 
-* Review the **Discovery Call Summary** and client notes.
-* Identify the **project scope, goals, and pain points**.
-* Confirm with the **technical team** if additional inputs (effort estimation, tech stack, or deliverables) are needed.
+* Gather complete details from discovery calls, emails, or LinkedIn discussions.
+* Key details include:
 
-**Template for Input Checklist:**
-
-| **Information Needed** | **Source**                   | **Status** |
-| ---------------------- | ---------------------------- | ---------- |
-| Project Scope          | Discovery Call / Client Docs | ✅          |
-| Budget Range           | Client Communication         | ✅          |
-| Technical Requirements | Internal Team                | ⏳          |
-| Timeline Expectation   | Client Discussion            | ✅          |
-| Branding/Design Inputs | Design Guidelines            | ✅          |
+  * Client company name, website, and contact details.
+  * Business needs and pain points.
+  * Required services or product type.
+  * Expected timeline and budget range.
+* Use the **Client Requirement Form** in Microsoft Forms or ClickUp to record information.
 
 ---
 
-### **Step 2: Select Standard Company Templates**
+### **Step 2: Choose the Correct Template**
 
-Use **APPNEURAL’s standard templates** for:
+* Use pre-approved company templates stored in **Microsoft 365 SharePoint Folder** → `/Business_Development/Templates/`.
+* Template options:
 
-* **Proposal Document** – (.docx or .pdf)
-* **Brochure** – (.pdf or .png)
-* **Pitch Deck** – (.pptx)
+  * **Proposal Template (Word/PDF)** – for formal project or outsourcing proposals.
+  * **Brochure Template (PowerPoint/Canva)** – for service or company profile sharing.
+  * **Pitch Deck Template (PowerPoint)** – for investor or partnership meetings.
 
-All templates are stored in:
-`/Business Development/Templates/Proposals_Brochures_PitchDecks/`
+All templates follow the **APPNEURAL Brand Style Guide**, including:
 
-These templates follow the **company’s brand guidelines**, including:
-
-* Font: *Poppins / Roboto*
-* Colors: *Blue (#004aad), White (#ffffff), Gray (#f3f4f6)*
-* Logo placement: Top-left of every page
-* Footer: Company name, contact info, and website link
+* Logo, color codes, and fonts
+* Footer with company contact info
+* Standard cover page and disclaimer section
 
 ---
 
-### **Step 3: Content Structure**
+### **Step 3: Create the Content**
 
-#### **A. Proposal Document Structure**
+Each document should include these key sections (adjust based on purpose):
 
-1. **Cover Page**
+#### **Proposal Content Structure**
 
-   * Project Name
-   * Client Name
-   * Prepared By: APPNEURAL Pvt. Ltd.
-   * Date
+1. **Cover Page:** Project title, client name, date, prepared by.
+2. **Executive Summary:** Short overview of the proposal and how APPNEURAL can help.
+3. **Client’s Pain Points / Business Need:** Based on discovery call.
+4. **Proposed Solution:** Services, process, and technologies to be used.
+5. **Scope of Work & Deliverables:** Clearly define what is included and excluded.
+6. **Timeline & Milestones:** Mention project phases and deadlines.
+7. **Commercials / Pricing:** Transparent cost structure (approved by finance).
+8. **Unique Selling Points (USPs):** Why choose APPNEURAL.
+9. **Terms & Conditions:** Payment terms, validity, confidentiality clause.
+10. **Contact Details:** Name, email, and phone number of the BD contact.
 
-2. **Executive Summary**
+#### **Brochure Content Structure**
 
-   * Short overview of client’s problem and your proposed solution.
+* Company introduction
+* List of services (AI, Outsourcing, GenAI Training, etc.)
+* Case studies and success stories
+* Team introduction
+* Client testimonials
+* Contact and QR code for website
 
-3. **Understanding of Client Requirements**
+#### **Pitch Deck Content Structure**
 
-   * Summarize key pain points identified during discovery.
-
-4. **Proposed Solution & Approach**
-
-   * Describe how your services will address client needs.
-   * Include technical stack, development phases, or strategy.
-
-5. **Deliverables & Timelines**
-
-   * Define milestones, timelines, and deliverables.
-
-6. **Pricing & Payment Terms**
-
-   * Clearly specify cost structure (fixed / milestone / hourly).
-
-7. **Why APPNEURAL Pvt. Ltd.**
-
-   * Highlight USP, team expertise, and relevant case studies.
-
-8. **Terms & Conditions**
-
-   * Include NDA, confidentiality, and project ownership clauses.
-
-9. **Next Steps / Call to Action**
-
-   * Mention follow-up meeting or signature process.
+* Problem Statement
+* Our Solution / Product
+* Market Opportunity
+* Technology & Features
+* Business Model
+* Client Benefits
+* Team Introduction
+* Call to Action / Next Steps
 
 ---
 
-#### **B. Brochure Structure**
+### **Step 4: Review and Approval**
 
-* **Page 1:** Company Overview
-* **Page 2:** Services Offered (AI, Cloud, Web, Blockchain, etc.)
-* **Page 3:** Key Projects / Case Studies
-* **Page 4:** USP & Client Testimonials
-* **Page 5:** Contact Information
+Before sending to a client, every proposal or deck must go through an internal review:
 
-Brochures are mostly used for **outreach and brand presentation**.
+1. **First Review – Business Development Lead:**
 
----
+   * Checks structure, grammar, and client information accuracy.
 
-#### **C. Pitch Deck Structure**
+2. **Technical Review – Project Lead:**
 
-Used for presentations to clients, investors, or partners.
+   * Confirms technical feasibility, timeline, and deliverables.
 
-| **Slide** | **Content**                    |
-| --------- | ------------------------------ |
-| 1         | Company Introduction           |
-| 2         | Problem Statement              |
-| 3         | Proposed Solution              |
-| 4         | Market Opportunity             |
-| 5         | Product/Service Overview       |
-| 6         | Tech Stack & Features          |
-| 7         | Business Model / Pricing       |
-| 8         | Case Studies / Success Stories |
-| 9         | Team Introduction              |
-| 10        | Next Steps / Contact           |
+3. **Finance Review:**
 
-**Design Tools:** Microsoft PowerPoint, Canva, or Figma.
+   * Verifies pricing and terms of payment.
+
+4. **Design Review – Marketing Team:**
+
+   * Ensures correct branding, formatting, and visual consistency.
+
+5. **Final Approval – CEO/Director:**
+
+   * Provides final sign-off for external sharing.
 
 ---
 
-### **Step 4: Internal Review & Approval Workflow**
+### **Step 5: File Naming & Version Control**
 
-1. **Draft Preparation (BDE):**
+To keep all files organized:
 
-   * BDE prepares the draft proposal using templates.
-
-2. **Technical Validation (Tech Lead):**
-
-   * Review for technical accuracy, deliverables, and timelines.
-
-3. **Design Review (Design Team):**
-
-   * Ensure brand consistency, visual quality, and formatting.
-
-4. **Final Review (Operations Head / CEO):**
-
-   * Validate pricing, language, and legal terms.
-
-5. **Approval:**
-
-   * Only approved documents can be shared externally.
-
-**Approval Flow Example:**
-`BDE → Tech Lead → Design Team → CEO`
-
----
-
-### **Step 5: Version Control & Naming Convention**
-
-Maintain organized file naming to avoid confusion.
-
-**Naming Format:**
-
-```
-ClientName_ProjectName_Proposal_V1_2025.pdf
-ClientName_Brochure_V2_2025.pdf
-ClientName_PitchDeck_V1_2025.pptx
-```
-
-Each revision should be stored in:
-`/Business Development/Proposals/[ClientName]/Versions/`
-
-**Version Control Guidelines:**
-
-* Use **Microsoft 365** or **Google Drive** for real-time collaboration.
-* Enable **document version history** to track edits and comments.
-* Only final approved versions should be shared externally.
+* Use the following naming format:
+  `Proposal_ClientName_v1.0_Date`
+  `PitchDeck_ClientName_v2.1_Date`
+* Store all versions in the company’s **Microsoft 365 SharePoint** under:
+  `/BusinessDevelopment/Proposals/Year/ClientName/`
+* Mark the final approved file as **“Approved for Client”** and lock editing rights.
 
 ---
 
 ### **Step 6: Client-Specific Customization**
 
-When tailoring documents:
-
-* Add the **client’s logo** or branding (with permission).
-* Modify solution content to address their **unique goals or challenges**.
-* Include **custom case studies** relevant to their industry.
-* Avoid generic or unrelated service descriptions.
-
-**Tip:** Always maintain a copy of the base template before customization.
+* Personalize the proposal with the client’s name, logo (if allowed), and project details.
+* Include client-related examples or portfolio projects.
+* Remove any internal data, cost breakdowns, or internal notes before sending.
 
 ---
 
-### **Step 7: Distribution Method**
+### **Step 7: Distribution to Client**
 
-Once approved:
-
-* Convert final document into **PDF (secured)** format.
-* Share with the client via **email** or **CRM attachment**.
-* Always log the sent date, version number, and next follow-up date in CRM.
-
-**Email Example:**
-
-```
-Subject: APPNEURAL | Project Proposal for [Client Project Name]
-
-Dear [Client Name],
-
-Please find attached the detailed project proposal and pitch deck prepared by our team at APPNEURAL Pvt. Ltd.
-
-We look forward to your feedback and are happy to schedule a review call at your convenience.
-
-Best Regards,
-[Your Name]  
-Business Development Executive  
-APPNEURAL Pvt. Ltd.
-```
+* Send the final document via **official company email ID** or **CRM platform**.
+* Subject line format:
+  **“APPNEURAL Proposal – [Service Name] for [Client Company Name]”**
+* Always attach the approved version only.
+* CC: Business Development Lead and Management for visibility.
 
 ---
 
-## **6. Tools & Software**
+## **5. Quality & Compliance**
 
-| **Purpose**         | **Tools Used**                       |
-| ------------------- | ------------------------------------ |
-| Proposal Creation   | Microsoft Word / Google Docs         |
-| Brochure Design     | Canva / Adobe Illustrator / Figma    |
-| Pitch Deck          | Microsoft PowerPoint / Google Slides |
-| Collaboration       | Microsoft 365 / Google Workspace     |
-| File Storage        | OneDrive / Drive / Internal Server   |
-| Tracking & Approval | ClickUp / Trello / CRM               |
+* All documents must follow **APPNEURAL Branding & Data Security Policy**.
+* Confidential pricing and internal details should **never be shared externally**.
+* Sensitive documents must be stored in **restricted-access folders**.
+* Follow **NDA and IT Act 2000** data protection guidelines for all proposals.
 
 ---
 
-## **7. Key Metrics (KPIs)**
+## **6. Tools & Resources**
 
-| **Metric**                      | **Target / Benchmark**      |
-| ------------------------------- | --------------------------- |
-| Proposal Preparation Turnaround | Within 3 Business Days      |
-| Approval Cycle Time             | Within 24 Hours             |
-| Proposal-to-Conversion Ratio    | ≥ 40%                       |
-| Branding Consistency Score      | 100% (per review checklist) |
+* **Microsoft Word / PowerPoint / SharePoint** – for creating and storing files.
+* **Canva / Figma** – for design and visuals.
+* **ClickUp / Notion / CRM** – to track proposal progress and status.
+* **Grammarly / Quillbot** – for proofreading.
+* **Microsoft Teams** – for review and feedback discussion.
+
+---
+
+## **7. Metrics to Track**
+
+* Number of proposals created per month.
+* Proposal-to-conversion rate (how many proposals converted to clients).
+* Average time to prepare a proposal.
+* Number of revisions before approval.
+* Client feedback on proposal clarity and quality.
 
 ---
 
 ## **8. Reference Standards**
 
-* **ISO 9001:2015 – Quality Management Systems**
-* **PMI Project Communication Standards**
-* **Branding & Visual Identity Guidelines (APPNEURAL Internal)**
+* **ISO 9001:2015 – Quality Management Systems** (for process consistency)
+* **Company Branding Guidelines Document**
+* **APPNEURAL Data Confidentiality & NDA Policy**
 
 ---
 
-## **9. Best Practices**
+## **9. Handover Checklist (Before Sending Proposal)**
 
-* Always use **approved templates** — never design from scratch.
-* Keep language **client-focused** — emphasize benefits, not features.
-* Avoid revealing sensitive internal costs in proposals.
-* Maintain a **proposal library** for future references.
-* Proofread every document for typos and formatting before sending.
+✅ All client details verified
+✅ Technical content reviewed and approved
+✅ Pricing confirmed by Finance
+✅ Design and format checked
+✅ File properly named and versioned
+✅ Saved in Microsoft 365 / CRM
+✅ Final approval received from Management
+✅ Shared through official email
 
 ---
 
