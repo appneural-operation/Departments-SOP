@@ -146,13 +146,9 @@ Tasks progress through the following **stages**:
 
 ```
 
----
-
 ✅ **Key Updates:**
 
 * Integrated **Microsoft 365 tools**: Planner (task management), To Do (personal tasks), SharePoint (documentation), Teams (communication & alerts)
 * Ensures **real-time collaboration** alongside Jira/Trello/ClickUp
 * Fully ready for GitHub `.md` upload
 
-```
----
