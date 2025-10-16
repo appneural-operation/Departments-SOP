@@ -1,12 +1,5 @@
 # **SOP: Project Initiation & Planning**
 
-**Department:** Project Management / Product Development
-**SOP Code:** PO–01
-**Version:** 1.0
-**Prepared by:** Project Management Office (PMO)
-**Approved by:** Management / Steering Committee
-**Effective Date:** [Insert Date]
-
 ---
 
 ## **Purpose**
