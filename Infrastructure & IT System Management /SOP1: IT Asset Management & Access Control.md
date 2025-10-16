@@ -1,4 +1,4 @@
-# SOP–IT–01: IT Asset Management & Access Control
+# SOP: IT Asset Management & Access Control
 
 ### **Purpose:**
 
