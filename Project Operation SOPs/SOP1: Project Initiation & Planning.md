@@ -1,5 +1,12 @@
 # **SOP: Project Initiation & Planning**
 
+**Department:** Project Management / Product Development
+**SOP Code:** PO–01
+**Version:** 1.0
+**Prepared by:** Project Management Office (PMO)
+**Approved by:** Management / Steering Committee
+**Effective Date:** [Insert Date]
+
 ---
 
 ## **Purpose**
@@ -49,13 +56,21 @@ Covers:
 
 **Deliverable:** Project Request Document
 
-**Templates:** Project Request Form
+**Template – Project Request Form:**
 
-**Best Practices:**
-
-* Engage **all relevant stakeholders** to capture requirements.
-* Ensure the opportunity aligns with **strategic company objectives**.
-* Document assumptions and initial constraints.
+```
+Project Request Form
+---------------------
+Project Name: ______________________
+Requested By: _____________________
+Date of Request: __________________
+Business Need / Opportunity: _______
+Expected Outcome / Benefit: _______
+Department(s) Involved: ___________
+Initial Resources Needed: __________
+Priority Level (High/Medium/Low): ___
+Additional Notes: __________________
+```
 
 ---
 
@@ -70,13 +85,27 @@ Covers:
 
 **Deliverable:** Approved Project Charter
 
-**Templates:** Project Charter Template
+**Template – Project Charter:**
 
-**Best Practices:**
-
-* Be clear about **scope boundaries** to avoid scope creep.
-* Include measurable **success criteria**.
-* Ensure stakeholders **acknowledge and approve** the charter.
+```
+Project Charter
+----------------
+Project Name: ______________________
+Project Manager: ___________________
+Sponsor / Steering Committee: _______
+Start Date: ________________________
+End Date: __________________________
+Project Objectives: __________________
+Scope (Inclusions / Exclusions): ______
+Key Deliverables: ___________________
+Milestones / Timeline: _______________
+Budget Estimate: ___________________
+Stakeholders: _______________________
+Risks / Assumptions: _______________
+Approval Signatures:
+Project Sponsor: ___________________  Date: ______________
+PMO Head: ________________________  Date: ______________
+```
 
 ---
 
@@ -91,13 +120,23 @@ Covers:
 
 **Deliverable:** Feasibility Study Report
 
-**Templates:** Feasibility Study Template
+**Template – Feasibility Study:**
 
-**Best Practices:**
-
-* Use **quantitative and qualitative metrics**.
-* Involve **cross-functional teams** for realistic assessments.
-* Highlight **critical risks and mitigation strategies**.
+```
+Feasibility Study Report
+-------------------------
+Project Name: ______________________
+Prepared By: ______________________
+Date: _____________________________
+Time Feasibility: __________________
+Cost Feasibility: __________________
+Resource Feasibility: ______________
+Technical Feasibility: ______________
+Risk Analysis: _____________________
+ROI / Benefit Analysis: ______________
+Recommendation: ____________________
+Approval: __________________________  Date: ______________
+```
 
 ---
 
@@ -111,13 +150,21 @@ Covers:
 
 **Deliverable:** Approved Project Plan
 
-**Templates:** Project Approval Form
+**Template – Project Approval Form:**
 
-**Best Practices:**
-
-* Ensure **budget and resource availability** are confirmed.
-* Document **approval date, signatures, and version**.
-* Maintain a **record of all review comments**.
+```
+Project Approval Form
+-----------------------
+Project Name: ______________________
+Project Manager: ___________________
+Date Submitted: ____________________
+Reviewed By: ______________________
+Decision: [Approved / Requires Changes / Rejected]
+Comments / Conditions: ______________
+Approval Signatures:
+Project Sponsor: ___________________ Date: ______________
+PMO Head: ________________________ Date: ______________
+```
 
 ---
 
@@ -131,13 +178,22 @@ Covers:
 
 **Deliverable:** Project Team Assignment Document
 
-**Templates:** Project Team Assignment Sheet
+**Template – Project Team Assignment Sheet:**
 
-**Best Practices:**
-
-* Match skills with **project requirements**.
-* Clearly communicate **expectations and responsibilities**.
-* Include **backup or alternate resources** in case of unavailability.
+```
+Project Team Assignment
+------------------------
+Project Name: ______________________
+Project Manager: ___________________
+Team Member Name | Role | Responsibilities | Reporting To
+----------------------------------------------------------
+1. ______________ | ______ | ____________ | __________
+2. ______________ | ______ | ____________ | __________
+3. ______________ | ______ | ____________ | __________
+...
+Start Date: __________________________
+End Date: ____________________________
+```
 
 ---
 
@@ -152,16 +208,33 @@ Covers:
 
 **Deliverable:** Project Milestone Plan & Risk Register
 
-**Templates:**
+**Template – Project Milestone Plan:**
 
-* Project Milestone Plan Template
-* Risk Register Template
+```
+Project Milestone Plan
+-----------------------
+Project Name: ______________________
+Milestone | Description | Start Date | End Date | Responsible
+-------------------------------------------------------------
+1. ________ | ________ | ________ | ________ | ________
+2. ________ | ________ | ________ | ________ | ________
+3. ________ | ________ | ________ | ________ | ________
+...
+```
 
-**Best Practices:**
+**Template – Risk Register:**
 
-* Use **SMART milestones** (Specific, Measurable, Achievable, Relevant, Time-bound).
-* Regularly update **risk register** throughout the project.
-* Ensure **team awareness of timelines and dependencies**.
+```
+Risk Register
+----------------
+Project Name: ______________________
+Risk ID | Risk Description | Probability (H/M/L) | Impact (H/M/L) | Mitigation Plan | Owner
+-----------------------------------------------------------------------------------------------
+1 | __________ | ___ | ___ | __________ | ________
+2 | __________ | ___ | ___ | __________ | ________
+3 | __________ | ___ | ___ | __________ | ________
+...
+```
 
 ---
 
@@ -190,18 +263,6 @@ Covers:
 * Accuracy of feasibility assessment
 * Resource allocation adherence
 * Milestone readiness at project kickoff
-
----
-
-## **Templates Included**
-
-1. Project Request Form
-2. Project Charter Template
-3. Feasibility Study Template
-4. Project Approval Form
-5. Project Team Assignment Sheet
-6. Project Milestone Plan Template
-7. Risk Register Template
 
 ---
 
