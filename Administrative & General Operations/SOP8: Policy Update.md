@@ -125,12 +125,19 @@ It covers:
 ## **9. Best Practices**
 
 ✅ Maintain **centralized repository** for all policies.
+
 ✅ Set **automatic reminders** for policy reviews.
+
 ✅ Track **employee acknowledgment** of each policy.
+
 ✅ Highlight major changes in **announcements** for clarity.
+
 ✅ Keep policies **concise, clear, and legally compliant**.
+
 ✅ Conduct **training sessions** for complex or technical policy updates.
+
 ✅ Regularly audit policies for relevance and compliance.
+
 ✅ Use consistent **format, numbering, and headings** for all policies.
 
 ---
